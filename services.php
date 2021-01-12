@@ -1,0 +1,89 @@
+<?php include "partials/header.php" ?> 
+
+    <div class="ftco-blocks-cover-1">
+      <div class="ftco-cover-1 overlay innerpage" style="background-image: url('assets/images/hero_2.jpg')">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 text-center">
+              <h1>Servislerimiz</h1>
+              <p>Güvenliğiniz için her daim araç kontrollerimizi sağlıyoruz</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-car"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Car Key</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-valet-1"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Car Key</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-key"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Car Key</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-car-1"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Repair</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-traffic"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Car Accessories</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mb-4 mb-lg-5">
+            <div class="service-1 dark">
+              <span class="service-1-icon">
+                <span class="flaticon-valet"></span>
+              </span>
+              <div class="service-1-contents">
+                <h3>Own a Car</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, laboriosam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<?php include "partials/footer.php" ?>
